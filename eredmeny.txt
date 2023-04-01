@@ -1,0 +1,17 @@
+Kerulet: 21.0
+Terulet: 10.928746497197197
+Szerkesztheto: Igen
+Hatradonyithato kor sugara: 1.0408329997330665
+Kerulet: 27.0
+Terulet: 34.197039345533994
+Szerkesztheto: Igen
+Hatradonyithato kor sugara: 2.533114025595111
+Kerulet: 33.0
+Terulet: 44.843477786630245
+Szerkesztheto: Igen
+Hatradonyithato kor sugara: 2.717786532523045
+Kerulet: 32.0
+Terulet: 29.393876913398138
+Szerkesztheto: Igen
+Hatradonyithato kor sugara: 1.8371173070873836
+Nem lehetseges a haromszog letrehozasa.
